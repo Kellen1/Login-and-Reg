@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginForm</string>
+    <string name="register">Register</string>
+    <string name="LoginForm">LoginForm</string>
+    <string name="login_form">Login_Form</string>
+    <string name="ENTERPASSWORD">enter_your_password</string>
+    <string name="enter_password">ENTER_PASSWORD</string>
+    <string name="enter_your_email">enter_your_email</string>
+    <string name="Enter_your_mail">enter_your_name</string>
+    <string name="welcome">Welcome</string>
+</resources>
